@@ -1,0 +1,331 @@
+ Mortalidade - São Paulo
+Óbitos p/Residênc por Município
+Categoria CID-10: B20   Doenc p/HIV result doenc infecc e parasit, B21   Doenc p/HIV result em neopl malig, B22   Doenc p/HIV result em outr doenc espec, B23   Doenc p/HIV result em outr doenc, B24   Doenc p/HIV NE
+Período:2016
+"Município";"Óbitos_p/Residênc"
+"350010 Adamantina";1
+"350020 Adolfo";1
+"350030 Aguaí";3
+"350070 Agudos";2
+"350090 Altair";1
+"350130 Álvares Machado";2
+"350160 Americana";16
+"350170 Américo Brasiliense";3
+"350180 Américo de Campos";1
+"350190 Amparo";1
+"350210 Andradina";1
+"350250 Aparecida";3
+"350275 Araçariguama";1
+"350280 Araçatuba";16
+"350290 Araçoiaba da Serra";5
+"350310 Arandu";1
+"350320 Araraquara";16
+"350330 Araras";6
+"350400 Assis";2
+"350410 Atibaia";3
+"350420 Auriflama";1
+"350450 Avaré";6
+"350460 Bady Bassitt";1
+"350480 Bálsamo";1
+"350550 Barretos";19
+"350560 Barrinha";1
+"350570 Barueri";24
+"350580 Bastos";2
+"350600 Bauru";34
+"350610 Bebedouro";9
+"350635 Bertioga";4
+"350650 Birigui";4
+"350670 Boa Esperança do Sul";1
+"350680 Bocaina";1
+"350700 Boituva";2
+"350710 Bom Jesus dos Perdões";1
+"350750 Botucatu";5
+"350760 Bragança Paulista";6
+"350780 Brodowski";1
+"350800 Buri";1
+"350840 Cabreúva";1
+"350850 Caçapava";14
+"350860 Cachoeira Paulista";2
+"350880 Cafelândia";1
+"350900 Caieiras";13
+"350925 Cajati";6
+"350940 Cajuru";1
+"350945 Campina do Monte Alegre";1
+"350950 Campinas";69
+"350960 Campo Limpo Paulista";4
+"350970 Campos do Jordão";3
+"350990 Cananéia";1
+"351000 Cândido Mota";2
+"351020 Capão Bonito";1
+"351040 Capivari";4
+"351050 Caraguatatuba";14
+"351060 Carapicuíba";25
+"351070 Cardoso";1
+"351080 Casa Branca";1
+"351100 Castilho";1
+"351110 Catanduva";11
+"351140 Cerqueira César";1
+"355720 Chavantes";1
+"351200 Colina";1
+"351220 Conchal";1
+"351240 Cordeirópolis";1
+"351280 Cosmópolis";3
+"351290 Cosmorama";1
+"351300 Cotia";4
+"351310 Cravinhos";1
+"351340 Cruzeiro";10
+"351350 Cubatão";5
+"351380 Diadema";25
+"351440 Dracena";5
+"351460 Dumont";1
+"351500 Embu das Artes";7
+"351510 Embu-Guaçu";4
+"351515 Engenheiro Coelho";1
+"351535 Euclides da Cunha Paulista";2
+"351540 Fartura";1
+"351550 Fernandópolis";2
+"351570 Ferraz de Vasconcelos";5
+"351600 Flórida Paulista";1
+"351620 Franca";25
+"351630 Francisco Morato";8
+"351640 Franco da Rocha";9
+"351660 Gália";1
+"351740 Guaíra";2
+"351750 Guapiaçu";1
+"351770 Guará";2
+"351820 Guararapes";3
+"351830 Guararema";2
+"351840 Guaratinguetá";11
+"351850 Guareí";2
+"351860 Guariba";1
+"351870 Guarujá";35
+"351880 Guarulhos";54
+"351907 Hortolândia";10
+"351925 Iaras";1
+"351930 Ibaté";3
+"351940 Ibirá";1
+"351950 Ibirarema";1
+"351960 Ibitinga";5
+"351970 Ibiúna";3
+"351990 Iepê";1
+"352010 Igarapava";1
+"352030 Iguape";2
+"352044 Ilha Solteira";1
+"352040 Ilhabela";3
+"352050 Indaiatuba";8
+"352090 Ipaussu";1
+"352130 Ipuã";1
+"352140 Iracemápolis";2
+"352180 Itaí";3
+"352190 Itajobi";1
+"352210 Itanhaém";9
+"352220 Itapecerica da Serra";12
+"352230 Itapetininga";2
+"352250 Itapevi";20
+"352260 Itapira";2
+"352270 Itápolis";3
+"352280 Itaporanga";1
+"352290 Itapuí";1
+"352300 Itapura";1
+"352310 Itaquaquecetuba";28
+"352320 Itararé";6
+"352330 Itariri";1
+"352360 Itirapina";2
+"352370 Itirapuã";1
+"352390 Itu";16
+"352400 Itupeva";5
+"352410 Ituverava";1
+"352420 Jaborandi";2
+"352430 Jaboticabal";3
+"352440 Jacareí";13
+"352460 Jacupiranga";1
+"352470 Jaguariúna";2
+"352480 Jales";1
+"352500 Jandira";8
+"352510 Jardinópolis";2
+"352530 Jaú";7
+"352540 Jeriquara";1
+"352570 José Bonifácio";1
+"352580 Júlio Mesquita";1
+"352590 Jundiaí";16
+"352620 Juquitiba";1
+"352630 Lagoinha";1
+"352640 Laranjal Paulista";1
+"352670 Leme";9
+"352680 Lençóis Paulista";2
+"352690 Limeira";21
+"352700 Lindóia";2
+"352710 Lins";4
+"352720 Lorena";8
+"352730 Louveira";3
+"352740 Lucélia";1
+"352810 Macaubal";1
+"352840 Mairinque";2
+"352850 Mairiporã";4
+"352900 Marília";13
+"352920 Martinópolis";1
+"352930 Matão";5
+"352940 Mauá";13
+"352980 Mineiros do Tietê";1
+"352990 Miracatu";1
+"353010 Mirandópolis";4
+"353020 Mirante do Paranapanema";2
+"353030 Mirassol";4
+"353040 Mirassolândia";1
+"353050 Mococa";2
+"353060 Mogi das Cruzes";21
+"353070 Mogi Guaçu";10
+"353080 Mogi Mirim";3
+"353090 Mombuca";1
+"353110 Mongaguá";12
+"353130 Monte Alto";4
+"353140 Monte Aprazível";1
+"353180 Monte Mor";3
+"353240 Nazaré Paulista";1
+"353250 Neves Paulista";1
+"353260 Nhandeara";1
+"353280 Nova Aliança";1
+"353290 Nova Europa";3
+"353340 Nova Odessa";1
+"353350 Novo Horizonte";2
+"353390 Olímpia";2
+"353430 Orlândia";1
+"353440 Osasco";40
+"353450 Oscar Bressane";2
+"353470 Ourinhos";6
+"353480 Ouro Verde";1
+"353490 Pacaembu";3
+"353530 Palmital";2
+"353550 Paraguaçu Paulista";1
+"353560 Paraibuna";1
+"353570 Paraíso";1
+"353590 Paranapuã";1
+"353600 Parapuã";1
+"353630 Patrocínio Paulista";1
+"353650 Paulínia";4
+"353660 Paulo de Faria";2
+"353670 Pederneiras";2
+"353700 Pedregulho";1
+"353740 Pereira Barreto";5
+"353760 Peruíbe";11
+"353780 Piedade";1
+"353800 Pindamonhangaba";10
+"353810 Pindorama";1
+"353820 Pinhalzinho";2
+"353860 Piracaia";1
+"353870 Piracicaba";27
+"353880 Piraju";1
+"353890 Pirajuí";4
+"353910 Pirapora do Bom Jesus";1
+"353920 Pirapozinho";3
+"353930 Pirassununga";2
+"353960 Planalto";1
+"353980 Poá";10
+"354000 Pompéia";1
+"354020 Pontal";1
+"354040 Populina";1
+"354060 Porto Feliz";3
+"354070 Porto Ferreira";1
+"354075 Potim";2
+"354100 Praia Grande";30
+"354105 Pratânia";1
+"354130 Presidente Epitácio";3
+"354140 Presidente Prudente";17
+"354150 Presidente Venceslau";2
+"354160 Promissão";3
+"354170 Quatá";1
+"354190 Queluz";1
+"354200 Quintana";1
+"354210 Rafard";1
+"354220 Rancharia";2
+"354240 Regente Feijó";1
+"354260 Registro";2
+"354290 Ribeirão Bonito";3
+"354310 Ribeirão Corrente";1
+"354320 Ribeirão do Sul";1
+"354330 Ribeirão Pires";4
+"354340 Ribeirão Preto";41
+"354390 Rio Claro";18
+"354400 Rio das Pedras";2
+"354410 Rio Grande da Serra";4
+"354425 Rosana";1
+"354430 Roseira";1
+"354440 Rubiácea";1
+"354500 Salesópolis";1
+"354520 Salto";8
+"354530 Salto de Pirapora";5
+"354550 Sandovalina";1
+"354560 Santa Adélia";1
+"354580 Santa Bárbara d'Oeste";11
+"354630 Santa Cruz das Palmeiras";1
+"354640 Santa Cruz do Rio Pardo";6
+"354650 Santa Ernestina";1
+"354660 Santa Fé do Sul";1
+"354680 Santa Isabel";5
+"354690 Santa Lúcia";1
+"354760 Santa Rosa de Viterbo";1
+"354730 Santana de Parnaíba";4
+"354770 Santo Anastácio";1
+"354780 Santo André";39
+"354810 Santo Antônio do Jardim";1
+"354850 Santos";46
+"354860 São Bento do Sapucaí";1
+"354870 São Bernardo do Campo";26
+"354880 São Caetano do Sul";13
+"354890 São Carlos";9
+"354910 São João da Boa Vista";2
+"354925 São João de Iracema";1
+"354930 São João do Pau d'Alho";1
+"354940 São Joaquim da Barra";1
+"354980 São José do Rio Preto";33
+"354990 São José dos Campos";30
+"354995 São Lourenço da Serra";1
+"355030 São Paulo";692
+"355040 São Pedro";4
+"355060 São Roque";4
+"355070 São Sebastião";6
+"355100 São Vicente";40
+"355140 Serra Azul";1
+"355160 Serra Negra";1
+"355150 Serrana";1
+"355170 Sertãozinho";7
+"355210 Socorro";1
+"355220 Sorocaba";38
+"355240 Sumaré";18
+"355250 Suzano";14
+"355270 Tabatinga";2
+"355280 Taboão da Serra";14
+"355320 Taiúva";1
+"355330 Tambaú";1
+"355340 Tanabi";2
+"355370 Taquaritinga";6
+"355380 Taquarituba";1
+"355395 Tarumã";1
+"355400 Tatuí";14
+"355410 Taubaté";27
+"355450 Tietê";2
+"355480 Tremembé";3
+"355500 Tupã";11
+"355510 Tupi Paulista";2
+"355520 Turiúba";1
+"355530 Turmalina";1
+"355540 Ubatuba";9
+"355550 Ubirajara";1
+"355620 Valinhos";3
+"355630 Valparaíso";3
+"355640 Vargem Grande do Sul";2
+"355645 Vargem Grande Paulista";2
+"355650 Várzea Paulista";4
+"355670 Vinhedo";2
+"355700 Votorantim";5
+"355710 Votuporanga";8
+"350000 Município ignorado - SP";7
+"Total";2530
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ 
